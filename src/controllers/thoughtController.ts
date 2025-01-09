@@ -1,9 +1,9 @@
 import { Request, Response } from 'express';
-import { Thought } from '../models/Thought';
+import { Thought } from '../models/Thoughts';
 import { User } from '../models/User';
 
 // Get all thoughts
-export const getAllThoughts = async (req: Request, res: Response): Promise<void> => {
+export const getAllThoughts = async (_: Request, res: Response): Promise<void> => {
     try {
     const thoughts = await Thought.find().populate('reactions');
     res.status(200).json(thoughts);
