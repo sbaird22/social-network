@@ -19,7 +19,7 @@ This is a backend application for a social network API. Built with **Node.js**, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/social-network-api.git
+   git clone https
    ```
 2. Navigate to the project directory:
    ```bash
