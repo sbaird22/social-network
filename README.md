@@ -124,7 +124,7 @@ Use **Insomnia** or **Postman** to test the following endpoints.
 ---
 
 ## Walkthrough Video
-Watch the full walkthrough video [here].
+Watch the full walkthrough video [here].https://drive.google.com/file/d/1IWyCfB5U1K_wMj-1kwr9oY7snzRQPGUc/view
 
 ---
 
